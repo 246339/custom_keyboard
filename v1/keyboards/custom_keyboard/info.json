@@ -12,7 +12,6 @@
         "nkro": true
     },
     "processor": "RP2040",
-    "url": "https://github.com/beekeeb/piantor",
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x0001",
@@ -43,7 +42,7 @@
         }
     },
     "layouts": {
-        "LAYOUT_split_3x6_4": {
+        "LAYOUT": {
             "layout": [
                 {"matrix": [0, 0], "x": 0, "y": 0.25},
                 {"matrix": [0, 1], "x": 1, "y": 0.25},
